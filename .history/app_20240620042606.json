@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SK!P",
-    "slug": "skip",
+    "name": "skp",
+    "slug": "scusers",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -22,8 +22,7 @@
       }
     },
     "web": {
- "output": "server",
-      "bundler": "metro",
+
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
