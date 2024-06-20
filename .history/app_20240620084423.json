@@ -22,8 +22,8 @@
       }
     },
     "web": {
- "output": "static",
-      "bundler": "metro",
+ "output": "server",
+      "bundler": "webpack",
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
